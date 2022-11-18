@@ -1,4 +1,5 @@
 # bbc-project
-Fresher Project | One of my first's
+### Fresher Project | One of my first's
 
-Rough around the edges project focused on layout and re-sizing
+##### Rough around the edge's project
+<br>Focus on layout and re-sizing
